@@ -29,4 +29,3 @@ $(document).ready(function() {
          }); //End ajax call
     });  //End searchBox Click
 });   //End Document Ready
-

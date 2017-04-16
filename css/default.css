@@ -1,1 +1,23 @@
+#wikiImage {
+   height: 50px;
+}
 
+body {
+   text-align: center;
+   color: black;
+   background-image: url(../img/background.jpg);
+   background-size: cover;
+   height: 800px;
+}
+
+h1 {
+   padding-top: 50px;
+   font-size: 3em;
+   font-weight: bolder;
+
+}
+
+button {
+   color: white;
+   background-color: black;
+}
